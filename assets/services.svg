@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Services">
   <style>
     text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
-    .card{fill:#0F172A;stroke:#1E3A5F;stroke-width:1.5}
+    .card{fill:#0B1B33;stroke:#1E3A5F;stroke-width:1.5}
     .t{font-size:19px;font-weight:700;fill:#F8FAFC}
     .d{font-size:13.5px;fill:#94A3B8}
-    .k{font-size:12px;font-weight:600;fill:#2DD4BF;letter-spacing:1.5px}
+    .k{font-size:12px;font-weight:600;fill:#14B8A6;letter-spacing:1.5px}
     .c{animation:fade 5s ease-in-out infinite alternate}
     .c2{animation-delay:.8s}.c3{animation-delay:1.6s}
-    @keyframes fade{from{stroke:#1E3A5F}to{stroke:#2DD4BF}}
+    @keyframes fade{from{stroke:#1E3A5F}to{stroke:#14B8A6}}
     @media (prefers-reduced-motion:reduce){.c{animation:none}}
   </style>
   <rect class="card c"     x="2"   y="2" width="316" height="206" rx="14"/>

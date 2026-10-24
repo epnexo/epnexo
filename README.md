@@ -4,9 +4,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-epnexo.dev-0EA5E9?style=for-the-badge)](https://epnexo.dev/en)
+[![Website](https://img.shields.io/badge/Website-epnexo.dev-0D9488?style=for-the-badge)](https://epnexo.dev/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EPNexo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/epnexo)
-[![Start a project](https://img.shields.io/badge/Start%20a%20project-2DD4BF?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://epnexo.dev/en/start)
+[![Start a project](https://img.shields.io/badge/Start%20a%20project-14B8A6?style=for-the-badge&logoColor=white&labelColor=0A244A)](https://epnexo.dev/en/start)
 
 </div>
 
