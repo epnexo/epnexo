@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="EPNexo. Clean Data. Clear Insights.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#12304A"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .b{transform-box:fill-box;transform-origin:bottom;animation:grow 3.2s ease-in-out infinite alternate}
+    .b2{animation-delay:.3s}.b3{animation-delay:.6s}.b4{animation-delay:.9s}.b5{animation-delay:1.2s}.b6{animation-delay:1.5s}
+    @keyframes grow{from{transform:scaleY(.45)}to{transform:scaleY(1)}}
+    .dot{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.b,.dot{animation:none}}
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+  <g stroke="#FFFFFF" stroke-opacity=".05">
+    <path d="M0 65H1000M0 130H1000M0 195H1000"/>
+  </g>
+  <text x="56" y="78" font-size="15" font-weight="600" letter-spacing="4" fill="#2DD4BF">EPNEXO</text>
+  <text x="56" y="140" font-size="52" font-weight="700" fill="url(#txt)">Edwin Pedraza</text>
+  <text x="56" y="182" font-size="24" fill="#E2E8F0">Clean Data. Clear Insights.</text>
+  <text x="56" y="218" font-size="15" fill="#94A3B8">Data cleaning  ·  Power BI  ·  Workflow automation</text>
+  <g transform="translate(640 40)">
+    <rect class="b"      x="0"   y="90"  width="40" height="90"  rx="6" fill="url(#bar)" opacity=".55"/>
+    <rect class="b b2"   x="60"  y="60"  width="40" height="120" rx="6" fill="url(#bar)" opacity=".7"/>
+    <rect class="b b3"   x="120" y="75"  width="40" height="105" rx="6" fill="url(#bar)" opacity=".6"/>
+    <rect class="b b4"   x="180" y="30"  width="40" height="150" rx="6" fill="url(#bar)" opacity=".85"/>
+    <rect class="b b5"   x="240" y="45"  width="40" height="135" rx="6" fill="url(#bar)" opacity=".75"/>
+    <rect class="b b6"   x="300" y="0"   width="40" height="180" rx="6" fill="url(#bar)"/>
+    <circle class="dot" cx="320" cy="-14" r="5" fill="#2DD4BF"/>
+  </g>
+</svg>

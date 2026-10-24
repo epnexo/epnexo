@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="170" viewBox="0 0 490 170" role="img" aria-label="ModuNexo project card">
+  <style>
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect x="1.5" y="1.5" width="487" height="167" rx="14" fill="#0F172A" stroke="#1E3A5F" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="6" height="167" rx="3" fill="#2DD4BF"/>
+  <text x="30" y="44" font-size="20" font-weight="700" fill="#F8FAFC">ModuNexo</text>
+  <text x="30" y="74" font-size="13.5" fill="#94A3B8">Modular platform to run a small business:</text>
+  <text x="30" y="94" font-size="13.5" fill="#94A3B8">CRM, inbox and contacts, with installable modules.</text>
+  <rect x="30" y="120" width="86" height="24" rx="12" fill="#12304A"/>
+  <text x="73" y="136" font-size="12" fill="#7DD3FC" text-anchor="middle">Platform</text>
+  <rect x="124" y="120" width="60" height="24" rx="12" fill="#12304A"/>
+  <text x="154" y="136" font-size="12" fill="#7DD3FC" text-anchor="middle">CRM</text>
+</svg>

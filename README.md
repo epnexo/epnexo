@@ -1,39 +1,41 @@
-# Hi, I'm Edwin 👋
+<div align="center">
 
-**Data freelancer · Clean Data. Clear Insights.**
+<img src="assets/banner.svg" alt="EPNexo. Clean Data. Clear Insights." width="100%">
 
-I help growing businesses turn messy spreadsheets and raw exports into numbers they can trust, so they can make better decisions, faster. I work directly with clients, with no agency layers and fixed-price projects.
+<br>
 
-[![Website](https://img.shields.io/badge/Website-epnexo.dev-0A66C2?style=flat-square)](https://epnexo.dev/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EPNexo-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/epnexo)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=flat-square&logo=upwork&logoColor=white)](https://epnexo.dev/en)
+[![Website](https://img.shields.io/badge/Website-epnexo.dev-0EA5E9?style=for-the-badge)](https://epnexo.dev/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EPNexo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/epnexo)
+[![Start a project](https://img.shields.io/badge/Start%20a%20project-2DD4BF?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://epnexo.dev/en/start)
+
+</div>
+
+I help growing businesses turn messy spreadsheets and raw exports into numbers they can trust, so they can make better decisions, faster. I work directly with clients: no agency layers, fixed-price projects, documentation with every delivery.
 
 ## What I do
 
-| Service | What you get |
-| --- | --- |
-| **Data cleaning & preparation** | Excel, CSV and Xero exports cleaned and standardised with Python (Pandas) and Power Query, as repeatable transforms |
-| **Power BI dashboards** | Data model, DAX measures, KPIs, revenue / cost / margin tracking, with handover and refresh instructions |
-| **Reporting & automation** | Xero reporting, VBA / Excel macros, workflow automation |
+<img src="assets/services.svg" alt="Services: data cleaning, Power BI dashboards, reporting and automation" width="100%">
 
 ## How I run my own business
 
-I use the same approach I sell. My pipeline runs on a self-hosted stack:
+I use the same approach I sell. My own pipeline runs on a self-hosted stack, from the first lead to the numbers I use to decide.
 
-`Lead (web / Upwork) → CRM → automated workflows → dashboards → decisions`
-
-- **CRM and modular back-office**: [ModuNexo](https://github.com/epnexo/ModuNexo), a modular platform (inbox, contacts and more), with installable modules in [ModuNexo-modules](https://github.com/epnexo/ModuNexo-modules)
-- **Automation**: n8n workflows connecting leads, email and reporting
-- **Self-hosted infrastructure**: Docker and Coolify
+<img src="assets/flow.svg" alt="Lead to CRM to automation to dashboards to decisions" width="100%">
 
 ## Featured work
 
-- **[ModuNexo](https://github.com/epnexo/ModuNexo)**: modular platform for running a small business
-- **[dashboard-in-HTML-project](https://github.com/epnexo/dashboard-in-HTML-project)**: demo with sample telecom data: cleaning pipeline, self-contained HTML dashboard and Excel report
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/epnexo/ModuNexo"><img src="assets/project-modunexo.svg" alt="ModuNexo" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/epnexo/dashboard-in-HTML-project"><img src="assets/project-dashboard.svg" alt="Telecom dashboard demo" width="100%"></a></td>
+  </tr>
+</table>
 
-> Demo projects use sample data, not client data.
+<sub>Demo projects use sample data, not client data.</sub>
 
 ## Toolbox
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -42,7 +44,10 @@ I use the same approach I sell. My pipeline runs on a self-hosted stack:
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+</div>
+
 ## Work with me
 
 Projects can start small: one dataset or one dashboard.
-👉 **[Start a project](https://epnexo.dev/en/start)** · **[Contact](https://epnexo.dev/en/contact)**
+
+**[Start a project](https://epnexo.dev/en/start)** · **[Contact](https://epnexo.dev/en/contact)** · **[Website](https://epnexo.dev/en)**

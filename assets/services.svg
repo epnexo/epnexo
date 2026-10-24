@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Services">
+  <style>
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+    .card{fill:#0F172A;stroke:#1E3A5F;stroke-width:1.5}
+    .t{font-size:19px;font-weight:700;fill:#F8FAFC}
+    .d{font-size:13.5px;fill:#94A3B8}
+    .k{font-size:12px;font-weight:600;fill:#2DD4BF;letter-spacing:1.5px}
+    .c{animation:fade 5s ease-in-out infinite alternate}
+    .c2{animation-delay:.8s}.c3{animation-delay:1.6s}
+    @keyframes fade{from{stroke:#1E3A5F}to{stroke:#2DD4BF}}
+    @media (prefers-reduced-motion:reduce){.c{animation:none}}
+  </style>
+  <rect class="card c"     x="2"   y="2" width="316" height="206" rx="14"/>
+  <rect class="card c c2"  x="342" y="2" width="316" height="206" rx="14"/>
+  <rect class="card c c3"  x="682" y="2" width="316" height="206" rx="14"/>
+
+  <g transform="translate(28 30)">
+    <text class="k" y="12">01</text>
+    <text class="t" y="46">Data Cleaning</text>
+    <text class="d" y="76">Excel, CSV and Xero exports cleaned</text>
+    <text class="d" y="97">and standardised with Python (Pandas)</text>
+    <text class="d" y="118">and Power Query. Repeatable, documented.</text>
+    <text class="k" y="158">PYTHON · PANDAS · POWER QUERY</text>
+  </g>
+  <g transform="translate(368 30)">
+    <text class="k" y="12">02</text>
+    <text class="t" y="46">Power BI Dashboards</text>
+    <text class="d" y="76">Data model, DAX measures and KPIs.</text>
+    <text class="d" y="97">Revenue, cost and margin tracking,</text>
+    <text class="d" y="118">monthly and YTD views with handover.</text>
+    <text class="k" y="158">POWER BI · DAX · XERO</text>
+  </g>
+  <g transform="translate(708 30)">
+    <text class="k" y="12">03</text>
+    <text class="t" y="46">Reporting &amp; Automation</text>
+    <text class="d" y="76">Xero reporting, VBA and Excel macros,</text>
+    <text class="d" y="97">and workflows that remove the manual</text>
+    <text class="d" y="118">steps between data and decisions.</text>
+    <text class="k" y="158">VBA · N8N · XERO</text>
+  </g>
+</svg>
